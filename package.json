@@ -1,0 +1,34 @@
+{
+  "name": "newsletter-form-with-react",
+  "version": "1.0.0",
+  "description": "Demonstration of simple usage of a newsletter form handled with React.",
+  "keywords": [
+    "form",
+    "react",
+    "state",
+    "fields",
+    "validation"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "enform": "1.2.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
